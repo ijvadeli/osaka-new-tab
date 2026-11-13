@@ -26,6 +26,12 @@ body {
     outline: 2.5px solid black;
 }
 
+.icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+}
+
 /* Wrapper elements */
 
 #wrapper a {
