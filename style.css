@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand+SC&display=swap');
+
+body {
+    background-color: #461220;
+    color: black;
+    font-family: "Patrick Hand SC", cursive;
+}
+
+/* Wrapper ETC */
+
+#wrapper {
+    padding: 5px;
+    background-color: #8c2f39;
+    outline: 3px solid black;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#clock {
+    font-size: 65px;
+}
+
+#boobs {
+    width: 200px;
+    outline: 2.5px solid black;
+}
+
+/* Wrapper elements */
+
+#wrapper a {
+    opacity: 0.4;
+    padding: 2px;
+}
+
+#wrapper a img {
+    outline: 2.5px solid black;
+}
+
+#wrapper a:hover {
+    opacity: 1;
+}

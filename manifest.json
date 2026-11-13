@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Forestree",
+    "version": "1.0",
+    "description": "Custom new tab Extension",
+    "author": "IJsbrand van de Lindt",
+    "chrome_url_overrides" : {
+      "newtab": "index.html"
+    },
+    
+    "icons": {
+      "16": "icon.png",
+      "128": "icon.png"
+    }
+  }
